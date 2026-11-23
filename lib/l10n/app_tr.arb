@@ -1,0 +1,476 @@
+{
+  "@@locale": "tr",
+  "ok": "Tamam",
+  "cancel": "Vazgeç",
+  "save": "Kaydet",
+  "saved": "Kaydedildi",
+  "retry": "Tekrar dene",
+  "close": "Kapat",
+  "delete": "Sil",
+  "edit": "Düzenle",
+  "remove": "Kaldır",
+  "skip": "Atla",
+  "next": "İleri",
+  "finish": "Bitir",
+  "continueLabel": "Devam",
+  "later": "Sonra",
+  "download": "İndir",
+  "view": "Görüntüle",
+  "send": "Gönder",
+  "update": "Güncelle",
+  "publish": "Yayınla",
+  "discard": "Vazgeç",
+  "settings": "Ayarlar",
+  "edited": "düzenlendi",
+  "deletedUser": "Silinmiş kullanıcı",
+  "untitled": "Başlıksız",
+  "pinned": "Sabitlendi",
+  "emptyList": "Burada henüz bir şey yok",
+  "offlineBanner": "Bağlantı yok",
+  "showingCached": "İnternet yok; son kaydedilen hali gösteriliyor.",
+  "timeJustNow": "az önce",
+  "timeMinutes": "{count} dk önce",
+  "@timeMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "timeHours": "{count} sa önce",
+  "@timeHours": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "timeDays": "{count} gün önce",
+  "@timeDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "navFeed": "Akış",
+  "navSearch": "Arama",
+  "navWrite": "Yaz",
+  "navNotifications": "Bildirimler",
+  "navProfile": "Profil",
+  "typeQuote": "Alıntı",
+  "typeThought": "Düşünce",
+  "typeThesis": "Tez",
+  "typeProject": "Proje",
+  "typeQuotes": "Alıntı",
+  "typeThoughts": "Düşünce",
+  "typeTheses": "Tez",
+  "typeProjects": "Proje",
+  "typeQuoteHint": "Bir kitaptan, yazardan cümleler ve senin notun",
+  "typeThoughtHint": "Aklından geçenler, kısa ya da uzun",
+  "typeThesisHint": "Bir fikri savunan, gerekçeli bir yazı",
+  "typeProjectHint": "Üzerinde çalıştığın bir iş, görsellerle",
+  "writeWhat": "Ne yazmak istersin?",
+  "myDrafts": "Taslaklarım",
+  "intro1Title": "Kendi kütüphaneni kur",
+  "intro1Body": "Alıntılar, düşünceler, tezler ve projeler. Profilin, herkesin okuyabileceği kişisel kütüphanendir.",
+  "intro2Title": "Okumaya odaklan",
+  "intro2Body": "Sade bir arayüz, sana uygun font ve tema. Metin öne çıkar, gerisi geri çekilir.",
+  "intro3Title": "Keşfet ve tartış",
+  "intro3Body": "Türlere, etiketlere ve popüler içeriklere göz at; yorum yap, beğen, kaydet.",
+  "getStarted": "Başla",
+  "email": "E-posta",
+  "password": "Şifre",
+  "newPassword": "Yeni şifre",
+  "code": "Kod",
+  "signIn": "Giriş yap",
+  "signUp": "Kayıt ol",
+  "signOut": "Çıkış yap",
+  "signOutConfirm": "Çıkış yapılsın mı?",
+  "signInTitle": "Tekrar hoş geldin",
+  "signInSubtitle": "Kütüphanene devam etmek için giriş yap.",
+  "signUpTitle": "Hesap oluştur",
+  "signUpSubtitle": "E-posta adresine bir doğrulama kodu göndereceğiz.",
+  "noAccount": "Hesabın yok mu?",
+  "forgotPassword": "Şifremi unuttum",
+  "termsOfUse": "Kullanım koşullarını",
+  "and": " ve ",
+  "privacyNotice": "KVKK aydınlatma metnini",
+  "acceptSuffix": " okudum, kabul ediyorum.",
+  "ageConfirm": "16 yaşından büyüğüm.",
+  "verifyTitle": "E-postanı doğrula",
+  "verifySubtitle": "{email} adresine gönderdiğimiz kodu gir.",
+  "@verifySubtitle": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "verify": "Doğrula",
+  "resendCode": "Kodu tekrar gönder",
+  "resendCodeIn": "Kodu tekrar gönder ({seconds} sn)",
+  "@resendCodeIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "codeResent": "Yeni kod gönderildi",
+  "checkSpam": "Gelmediyse spam klasörüne de bak.",
+  "forgotTitle": "Şifreni sıfırla",
+  "forgotSubtitle": "Hesabının e-posta adresini yaz; sana bir kod gönderelim.",
+  "forgotCodeSent": "{email} adresine gelen kodu ve yeni şifreni gir.",
+  "@forgotCodeSent": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "sendCode": "Kod gönder",
+  "updatePassword": "Şifreyi güncelle",
+  "passwordUpdated": "Şifren güncellendi",
+  "setupNicknameTitle": "Seni nasıl tanıyalım?",
+  "setupNicknameSubtitle": "@nickname benzersizdir ve profil adresin olur. Görünen adını istediğin gibi yazabilirsin.",
+  "nickname": "Nickname",
+  "nicknameHelp": "3–20 karakter: a-z, 0-9, _ ve .",
+  "displayName": "Görünen ad",
+  "displayNameHelp": "Profilinde ve içeriklerinde görünür",
+  "setupProfileTitle": "Profilini tamamla",
+  "setupProfileSubtitle": "Bir fotoğraf ve kısa bir biyografi ekle. İstersen sonra da yapabilirsin.",
+  "bio": "Biyografi",
+  "bioHelp": "En fazla 160 karakter",
+  "pickFromGallery": "Galeriden seç",
+  "takePhoto": "Fotoğraf çek",
+  "cropAvatar": "Profil fotoğrafı",
+  "cropCover": "Kapak görseli",
+  "errGeneric": "Bir şeyler ters gitti. Lütfen tekrar dene.",
+  "errOffline": "İnternet bağlantısı yok.",
+  "errRequired": "Bu alan gerekli",
+  "errInvalidEmail": "Geçerli bir e-posta adresi yaz",
+  "errPasswordShort": "Şifre en az {min} karakter olmalı",
+  "@errPasswordShort": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "errInvalidCredentials": "E-posta veya şifre hatalı",
+  "errEmailNotConfirmed": "E-posta adresin henüz doğrulanmamış",
+  "errEmailExists": "Bu e-posta ile zaten bir hesap var",
+  "errWeakPassword": "Şifre çok zayıf",
+  "errSamePassword": "Yeni şifre eskisiyle aynı olamaz",
+  "errCodeInvalid": "Kod hatalı ya da süresi dolmuş",
+  "errRateLimit": "Çok fazla deneme yapıldı. Biraz sonra tekrar dene.",
+  "errBanned": "Bu hesap kurallara aykırılık nedeniyle kapatıldı.",
+  "errAcceptRequired": "Devam etmek için iki kutuyu da işaretle",
+  "errNicknameTaken": "Bu nickname alınmış",
+  "errNicknameReserved": "Bu nickname yakın zamanda bırakıldı; 30 gün boyunca alınamaz",
+  "errNicknameTooSoon": "Nickname 30 günde bir değiştirilebilir",
+  "errTooManyTags": "En fazla 5 etiket ekleyebilirsin",
+  "errTooManyImages": "Bir içerikte en fazla 5 görsel olabilir",
+  "errTagTooLong": "Etiket en fazla 30 karakter olabilir",
+  "errTitleRequired": "Yayınlamak için bir başlık yaz",
+  "errBodyRequired": "Yayınlamak için metin yaz",
+  "errNotAllowed": "Bunu yapmaya iznin yok",
+  "errDuplicate": "Bu kayıt zaten var",
+  "errInvalidInput": "Girilen bilgi geçersiz",
+  "errUpload": "Görsel yüklenemedi",
+  "updateTitle": "Yeni sürüm var",
+  "updateAvailable": "Peerless {version} hazır. İndirip kurabilirsin.",
+  "@updateAvailable": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "updateRequired": "Devam etmek için Peerless {version} sürümünü kurman gerekiyor.",
+  "@updateRequired": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "sort": "Sıralama",
+  "sortLatest": "En yeni",
+  "sortPopular": "Popüler",
+  "tabAll": "Tümü",
+  "popularHint": "Son 7 günün en çok beğenilen içerikleri",
+  "emptyFeed": "Henüz içerik yok",
+  "emptyPopular": "Bu hafta henüz popüler içerik yok",
+  "emptyFeedHint": "İlk paylaşımı sen yap: ortadaki Yaz butonuna dokun.",
+  "readingSettings": "Okuma ayarları",
+  "font": "Font",
+  "textSize": "Yazı boyutu",
+  "sizeSmall": "Küçük",
+  "sizeMedium": "Orta",
+  "sizeLarge": "Büyük",
+  "lineSpacing": "Satır aralığı",
+  "lineNarrow": "Dar",
+  "lineNormal": "Normal",
+  "lineWide": "Geniş",
+  "readingTheme": "Okuma teması",
+  "themeDark": "Koyu",
+  "themeLight": "Açık",
+  "themeSepia": "Sepya",
+  "like": "Beğen",
+  "unlike": "Beğeniyi geri al",
+  "comment": "Yorum yap",
+  "bookmark": "Kaydet",
+  "removeBookmark": "Kaydedilenlerden çıkar",
+  "bookmarkAdded": "Kaydedilenlere eklendi",
+  "bookmarkRemoved": "Kaydedilenlerden çıkarıldı",
+  "pinToProfile": "Profilime sabitle",
+  "unpin": "Sabitlemeyi kaldır",
+  "pinnedDone": "Profiline sabitlendi",
+  "unpinned": "Sabitleme kaldırıldı",
+  "deletePostTitle": "İçerik silinsin mi?",
+  "deletePostBody": "Bu işlem geri alınamaz; yorumlar ve beğeniler de silinir.",
+  "postDeleted": "İçerik silindi",
+  "report": "Şikayet et",
+  "viewProfile": "Profili gör",
+  "personalNote": "Kişisel yorum",
+  "postNotFound": "İçerik bulunamadı",
+  "postNotFoundHint": "Silinmiş, kaldırılmış ya da erişimin olmayan bir içerik olabilir.",
+  "postRemovedNotice": "Bu içerik kurallara aykırı bulunduğu için yayından kaldırıldı. Yalnızca sen görebilirsin.",
+  "commentsCount": "{count, plural, =0{Yorum yok} other{{count} yorum}}",
+  "@commentsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noComments": "İlk yorumu sen yaz.",
+  "reply": "Yanıtla",
+  "writeComment": "Yorum yaz…",
+  "replyingTo": "{name} adlı kişiye yanıt",
+  "@replyingTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "editComment": "Yorumu düzenle",
+  "deleteCommentTitle": "Yorum silinsin mi?",
+  "reportSentTitle": "Teşekkürler",
+  "reportSentBody": "Admine iletilmiştir. İçerik sahibine gerekli işlem yapılacaktır.",
+  "reportAlready": "Bu içeriği zaten şikayet ettin",
+  "block": "Engelle",
+  "unblock": "Engeli kaldır",
+  "blockConfirmTitle": "{name} engellensin mi?",
+  "@blockConfirmTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "blockConfirmBody": "Onun içeriklerini ve yorumlarını görmezsin. O da senin içeriklerine yorum, beğeni ve @bahsetme yapamaz.",
+  "blocked": "{name} engellendi",
+  "@blocked": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "unblocked": "{name} için engel kaldırıldı",
+  "@unblocked": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "youBlockedUser": "Bu kişiyi engelledin",
+  "youBlockedUserHint": "İçeriklerini görmek için menüden engeli kaldırabilirsin.",
+  "editProfile": "Profili düzenle",
+  "bookmarks": "Kaydedilenler",
+  "userNotFound": "Kullanıcı bulunamadı",
+  "emptyLibrary": "Kütüphanesi henüz boş",
+  "emptyMyLibrary": "Kütüphanen henüz boş. İlk içeriğini yaz!",
+  "emptyType": "Bu türde içerik yok",
+  "emptyBookmarks": "Kaydedilen içerik yok",
+  "emptyBookmarksHint": "Bir içeriği okurken yer imi ikonuna dokun. Bu liste yalnızca sana görünür.",
+  "changePhoto": "Fotoğrafı değiştir",
+  "changeCover": "Kapağı değiştir",
+  "nicknameChangeRule": "Nickname 30 günde bir değiştirilebilir; eski nickname 30 gün boyunca başkasına verilmez.",
+  "nicknameNextChange": "Nickname'ini {date} tarihinden sonra değiştirebilirsin.",
+  "@nicknameNextChange": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "adminPanel": "Admin paneli",
+  "titleHint": "Başlık",
+  "bodyHint": "Yazmaya başla…",
+  "quoteBodyHint": "Alıntıyı buraya yaz…",
+  "personalNoteHint": "Alıntının altında görünen notun (isteğe bağlı)",
+  "addCover": "Kapak ekle",
+  "gallery": "Görsel galerisi",
+  "galleryOnlyProject": "Galeri yalnızca projelerde olabilir; önce galeri görsellerini kaldır.",
+  "tags": "Etiketler",
+  "tagHint": "Etiket ekle (virgül ya da boşlukla)",
+  "tagRule": "En fazla {max} etiket; mevcut etiketler önerilir.",
+  "@tagRule": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "imageLimitInfo": "Görseller: {count}/{max} (kapak + metin içi + galeri)",
+  "@imageLimitInfo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "saving": "Kaydediliyor…",
+  "savedDraft": "Taslak kaydedildi",
+  "saveFailed": "Kaydedilemedi",
+  "published": "Yayınlandı",
+  "updated": "Güncellendi",
+  "deleteDraftTitle": "Taslak silinsin mi?",
+  "discardChangesTitle": "Değişiklikler kaydedilmedi",
+  "discardChangesBody": "Çıkarsan yaptığın değişiklikler kaybolur.",
+  "noDrafts": "Taslak yok",
+  "noDraftsHint": "Yazdıkların otomatik olarak taslak kaydedilir.",
+  "fmtHeading": "Başlık",
+  "fmtBold": "Kalın",
+  "fmtItalic": "İtalik",
+  "fmtQuote": "Alıntı bloğu",
+  "fmtBullets": "Liste",
+  "fmtNumbers": "Numaralı liste",
+  "addLink": "Link ekle",
+  "addImage": "Görsel ekle",
+  "undo": "Geri al",
+  "redo": "Yinele",
+  "searchHint": "Kişi veya içerik ara",
+  "recentSearches": "Son aramalar",
+  "popularThisWeek": "Haftanın popüler içerikleri",
+  "people": "Kişiler",
+  "posts": "İçerikler",
+  "noResults": "Sonuç bulunamadı",
+  "noPostResults": "Bu aramayla eşleşen içerik yok",
+  "notifComment": "{user} içeriğine yorum yaptı",
+  "@notifComment": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "notifReply": "{user} yorumuna yanıt verdi",
+  "@notifReply": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "notifLike": "{user} içeriğini beğendi",
+  "@notifLike": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "notifMention": "{user} bir yorumda senden bahsetti",
+  "@notifMention": {
+    "placeholders": {
+      "user": {
+        "type": "String"
+      }
+    }
+  },
+  "noNotifications": "Bildirim yok",
+  "noNotificationsHint": "Yorum, yanıt, beğeni ve bahsetmeler burada görünür.",
+  "moderationNoticeTitle": "Moderasyon bildirimi",
+  "moderationRemoved": "İçeriğin kurallara aykırı bulunduğu için kaldırıldı.",
+  "moderationWarned": "Hesabına resmi bir uyarı verildi.",
+  "moderationBanned": "Hesabın kalıcı olarak kapatıldı.",
+  "moderationGeneric": "Hesabınla ilgili bir moderasyon bildirimi var.",
+  "adminNote": "Admin notu",
+  "viewPost": "İçeriği gör",
+  "reports": "Şikayetler",
+  "appVersion": "Uygulama sürümü",
+  "noOpenReports": "Bekleyen şikayet yok",
+  "reportTargetPost": "İçerik",
+  "reportTargetComment": "Yorum",
+  "reportTargetProfile": "Profil",
+  "reportCount": "{count, plural, =1{1 şikayet} other{{count} şikayet}}",
+  "@reportCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "dismiss": "Reddet",
+  "removeContent": "İçeriği kaldır",
+  "warn": "Uyarı ver",
+  "ban": "Kalıcı ban",
+  "adminNoteOptional": "Not (isteğe bağlı, kullanıcıya gösterilir)",
+  "moderationDone": "İşlem uygulandı",
+  "appVersionHelp": "Kullanıcının sürümü \"son sürüm\"den eskiyse \"Yeni sürüm var\" uyarısı çıkar; \"en düşük sürüm\"den eskiyse kurmadan devam edemez.",
+  "latestVersion": "Son sürüm",
+  "minVersion": "En düşük sürüm",
+  "apkUrl": "APK indirme linki",
+  "settingsAccount": "Hesap",
+  "settingsNotifications": "Bildirimler",
+  "settingsAppearance": "Görünüm",
+  "settingsBlocked": "Engellenen kullanıcılar",
+  "settingsAbout": "Hakkında",
+  "changeEmail": "E-postayı değiştir",
+  "newEmail": "Yeni e-posta",
+  "emailChangeCodeSent": "{email} adresine gönderilen kodu gir.",
+  "@emailChangeCodeSent": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "emailChanged": "E-posta adresin değişti",
+  "changePassword": "Şifreyi değiştir",
+  "deleteAccount": "Hesabı sil",
+  "deleteAccountHint": "30 gün sonra kesinleşir",
+  "deleteAccountConfirmTitle": "Hesabın silinsin mi?",
+  "deleteAccountConfirmBody": "Hesabın ve tüm verilerin 30 gün sonra kalıcı olarak silinir. Bu sürede tekrar giriş yaparsan talep iptal olur.",
+  "deleteAccountRequested": "Silme talebin alındı. 30 gün içinde giriş yaparsan iptal olur.",
+  "notifSettingComment": "İçeriğime yorum",
+  "notifSettingReply": "Yorumuma yanıt",
+  "notifSettingLike": "İçeriğim beğenildi",
+  "notifSettingMention": "@bahsedilme",
+  "notifSettingModeration": "Moderasyon bildirimleri (uyarı, içerik kaldırma) her zaman uygulama içinde gösterilir.",
+  "language": "Dil",
+  "languageSystem": "Telefonun dili",
+  "theme": "Tema",
+  "noBlockedUsers": "Engellediğin kimse yok",
+  "versionLabel": "Sürüm {version}",
+  "@versionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "openSourceLicenses": "Açık kaynak lisansları",
+  "contact": "İletişim",
+  "legalTurkishOnly": "This text is currently available in Turkish only."
+}
